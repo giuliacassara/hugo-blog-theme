@@ -1,10 +1,10 @@
 ---
 # === Required fields  ===
 # Your name 
-name: "Astatine"
+name: "Giulia Cassara"
 # Your profile picture
 imgname: 
-  name: "img/main.jpg"
+  name: "img/profile.jpg"
   alt: "Picture of me"
   type: image/jpeg
 # More sources can be added (optional) using 

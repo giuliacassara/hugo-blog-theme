@@ -36,6 +36,11 @@ pygmentsStyle = "native"
     url = "/post/"
     weight = -150
 
+[[menu.main]]
+    name = "Teaching"
+    url = "/teaching/"
+    weight = -140
+
 # This links to the page about.md
 [[menu.main]]
     name = "Contacts"
