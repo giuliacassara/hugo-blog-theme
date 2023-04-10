@@ -36,10 +36,10 @@ pygmentsStyle = "native"
     url = "/post/"
     weight = -150
 
-[[menu.main]]
-    name = "Teaching"
-    url = "/teaching/"
-    weight = -140
+#[[menu.main]]
+#    name = "Teaching"
+#    url = "/teaching/"
+#    weight = -140
 
 # This links to the page about.md
 [[menu.main]]
@@ -76,8 +76,8 @@ pygmentsStyle = "native"
     # hostedKaTex = false
 
     # Optional: add a twitter handle and mastodon handle for SEO.
-    # [params.twitter]
-        # name = "@Jack_harkness"
+     [params.twitter]
+         name = "@Jack_harkness"
     # [params.mastodon]
         # name = "@jkharkness"
         # host = "mastodon.social"
