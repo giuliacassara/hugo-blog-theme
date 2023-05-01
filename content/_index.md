@@ -15,7 +15,7 @@ imgname:
 #     type: $IMAGE_TYPE
 # ...
 # A title (job title or "Researcher", "PhD student", etc.)
-personal_title: "Founder, CTO"
+personal_title: "AI Framework Engineer"
 # An address (you can list multiple)
 address: 
   - 
@@ -26,11 +26,11 @@ address:
 
 # === Optional fields ===
 # Add an email with a mailto: hyperlink
-#email: name at hyperable.io 
-# Add an email "image" for spam protection. With light and dark mode
-# emailImg: 
-#   dark: /img/dark_email.png
-#   light: /img/light_email.png
+email: giulia@hyperable.io 
+ # Add an email "image" for spam protection. With light and dark mode
+emailImg: 
+   dark: /img/dark-email.png
+   light: /img/light_email.png
 
 # List your publications. The required fields are pdf, title, and image 
 # (which should be the image path). The other fields are optional.
@@ -77,10 +77,20 @@ address:
 ---
 
 # Bio
-Welcome to my page! I'm the Co-Founder and CTO of Hyperable, a Fabless Semiconductor Company.
 
-I am a PhD student in Data Science working on deep learning and algebraic topology applied to hypergraphs.
+I'm an experienced AI Framework Engineer and Deep Learning Researcher. I specialize in developing efficient and scalable artificial intelligence solutions, leveraging my expertise in High-Performance Computing (HPC), computer architecture, and advanced deep learning methodologies. I also have experience in tracking and debugging performance and accuracy issues in AI workloads as well as compiler technologies like LLVM and MLIR. 
 
-I have an MSc in Artificial Intelligence and Robotics Engineering from the University of Rome, La Sapienza, with an outstanding thesis on drug repurposing using network medicine for COVID-19 treatment.
+With a strong background in computer science and a passion for driving innovation in the field of AI, I've dedicated my career to creating state-of-the-art AI frameworks that enable developers and researchers to build powerful and efficient applications. My unique skill set in HPC and RISC-V architecture allows me to optimize AI frameworks for the latest hardware, ensuring maximum performance and energy efficiency. 
 
-You can download my [industrial CV](https://drive.google.com/file/d/1nzlrY-UzjPdLmHBZHqic4-xTz2Z6vxO9/view?usp=sharing) in pdf format.
+Currently, I am pursuing a PhD in Data Science at La Sapienza, University of Rome, under the guidance of Professor Fabrizio Silvestri. My research focuses on deep learning and algebraic topology applied to hypergraphs.
+
+I hold an MSc in Artificial Intelligence and Robotics Engineering from the University of Rome, La Sapienza. My exceptional thesis centered on drug repurposing using network medicine to develop treatments for COVID-19.
+
+You can download my CV [here](/industrial-cv.pdf) in pdf format.
+
+
+# Contact
+I'd love to connect and discuss potential collaborations or opportunities. Feel free to reach out to me through any of the channels listed below:
+
+* Email: giulia at hyperable.io
+* LinkedIn: https://www.linkedin.com/in/giuliacassara/
