@@ -92,5 +92,4 @@ You can download my CV [here](/industrial-cv.pdf) in pdf format.
 # Contact
 I'd love to connect and discuss potential collaborations or opportunities. Feel free to reach out to me through any of the channels listed below:
 
-* Email: giulia at hyperable.io
 * LinkedIn: https://www.linkedin.com/in/giuliacassara/
